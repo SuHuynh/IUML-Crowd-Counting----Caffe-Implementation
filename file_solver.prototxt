@@ -1,0 +1,23 @@
+# The train/test net protocol buffer definition
+net: "/Multi_task learning/file_train_test.prototxt"
+
+# The base learning rate, momentum and the weight decay of the network.
+base_lr: 3e-5
+momentum: 0.9
+weight_decay: 0.0005
+
+# The learning rate policy
+lr_policy: "step" # learning rate policy: drop the learning rate in "steps"
+                  # by a factor of gamma every stepsize iterations
+gamma: 0.3        # drop the learning rate by a factor of 10
+                  # (i.e., multiply it by a factor of gamma = 0.1)
+
+stepsize: 200000  # drop the learning rate every 100K iterations
+
+# The maximum number of iterations
+max_iter: 400000
+# snapshot intermediate results
+snapshot: 2000
+snapshot_prefix: "/Multi_task learning/Part_B"
+# solver mode: CPU or GPU
+solver_mode: GPU
