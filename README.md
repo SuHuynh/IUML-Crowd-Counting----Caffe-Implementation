@@ -2,6 +2,8 @@
 ## IUML: INCEPTION U-NET BASED MULTI-TASK LEARNING FOR DENSITY LEVEL CLASSIFICATION AND CROWD DENSITY ESTIMATION
 By Van-Su Huynh, Vu-Hoang Tran, and Chin-Chung Huang
 
+![](https://github.com/SuHuynh/IUML-Crowd-Counting/img/Fig_overall.png)
+
 ### Introduction
 This project is an implementation of IUML network for crowd counting. IUML network could handle various types of scale problem caused by: depth variation, height variation, the variation caused by density levels, and image resolution difference 
 
