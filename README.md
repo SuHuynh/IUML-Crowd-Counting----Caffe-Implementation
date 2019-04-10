@@ -24,8 +24,8 @@ The training model was defined in ``` file_train.prototxt ```
 The testing model was defined in ``` deploy.prototxt ```
 
 ### References
-(1) Y. Zhang, D. Zhou, S. Chen, S. Gao, and Y. Ma, “Single-image crowd counting via multi-column convolutional neural network,” CVPR, 2016
-(2) Haroon Idrees, Imran Saleemi, Cody Seibert, and Mubarak Shah, “Multi-source multi-scale counting in extremely dense crowd images,” in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 2547-2554, 2013.
+-(1) Y. Zhang, D. Zhou, S. Chen, S. Gao, and Y. Ma, “Single-image crowd counting via multi-column convolutional neural network,” CVPR, 2016
+-(2) Haroon Idrees, Imran Saleemi, Cody Seibert, and Mubarak Shah, “Multi-source multi-scale counting in extremely dense crowd images,” in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 2547-2554, 2013.
 
 
 
