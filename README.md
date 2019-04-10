@@ -12,4 +12,7 @@ We have tested the implementation on Window with GPU Nvidia 1080TI, CUDA8 and Cu
 
 
 ### Training and Test
-The hyper-parameters are denoted in ''' file_solver.prototxt '''
+The hyper-parameters are denoted in 
+''' 
+file_solver.prototxt 
+'''
