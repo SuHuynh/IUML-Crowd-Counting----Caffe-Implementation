@@ -1,5 +1,3 @@
-# IUML-Crowd-Counting
-counting people in crowd image
 
 ## IUML: INCEPTION U-NET BASED MULTI-TASK LEARNING FOR DENSITY LEVEL CLASSIFICATION AND CROWD DENSITY ESTIMATION
 By Van-Su Huynh, Vu-Hoang Tran, and Chin-Chung Huang
