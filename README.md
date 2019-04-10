@@ -13,7 +13,7 @@ The ShanghaiTech dataset (1) could be dowloaded in [here]( https://www.dropbox.c
 The UCF_CC_50 dataset (2) could be dowloaded in [here](https://www.crcv.ucf.edu/data/ucf-cc-50/).
 
 After getting the dataset, using the code in ```data_preparation``` to create the training patch.
-Each original images, we randomly generate 30 patches.
+Each original image, we randomly generate 30 patches.
 We applied a geometry-adaptive kernel (1) which results in a smaller kernel size for a smaller object and a larger kernel size for a larger object.
 
 ### Training and Test
