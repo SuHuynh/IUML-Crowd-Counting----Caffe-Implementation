@@ -12,7 +12,6 @@ We have tested the implementation on Window with GPU Nvidia 1080TI, CUDA8 and Cu
 
 ### Dataset preparation
 The ShanghaiTech dataset (1) could be dowloaded in [here]( https://www.dropbox.com/s/fipgjqxl7uj8hd5/ShanghaiTech.zip?dl=0)
-
 The UCF_CC_50 dataset (2) could be dowloaded in [here](https://www.crcv.ucf.edu/data/ucf-cc-50/)
 
 
