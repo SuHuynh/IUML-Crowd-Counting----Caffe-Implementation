@@ -1,6 +1,7 @@
 
 ## IUML: INCEPTION U-NET BASED MULTI-TASK LEARNING FOR DENSITY LEVEL CLASSIFICATION AND CROWD DENSITY ESTIMATION
 By Van-Su Huynh, Vu-Hoang Tran, and Chin-Chung Huang
+This work is accepted by SMC 2019 conference
 
 ![](https://github.com/SuHuynh/IUML-Crowd-Counting/blob/master/img/overall_structure.png)
 
